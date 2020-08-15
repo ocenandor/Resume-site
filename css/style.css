@@ -1,0 +1,166 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+.sidebar-titles{
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.skills-element{  
+    color: #ff6b08;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+      
+    letter-spacing: 0.42px;
+}
+.skills-text{
+    color: #ffffff;
+}
+.sidebar{
+    background-color: #1e2939;    
+    width: 370px;
+    padding-top: 40px;    
+}
+.main-photo{
+    width: 370px;    
+}
+.sidebar-containers{
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+.contacts-letter{
+    font-size: 14px;
+    color: #ffffff;     
+    font-weight: 700;
+    letter-spacing: 0.42px;
+}
+.contacts-info{
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+
+
+
+/* .soft-skills-container{
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+.contacts-container{
+    padding-left: 40px;
+    box-sizing: border-box;
+} */
+
+
+
+
+
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    /* padding: 40px; */
+    margin-left: 17%;
+    margin-right: 17%;
+    background-color: #ffffff;
+    
+}
+
+.about-me-container{
+    padding-left: 90px;
+    padding-top: 88px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    
+}
+
+
+.occupation{
+    
+    height: 14px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    /* line-height: 24px;     */
+    /* letter-spacing: 0.42px; */
+}
+
+.name{
+    font-size: 45px;
+    margin-bottom: 24px;
+}
+
+.about-me-text{
+    font-size: 14px;
+    color: #595959;
+    margin-bottom: 64px;
+    line-height: 180%;
+
+}
+
+
+
+.projects-list{
+    margin-bottom: 55px;
+}
+
+.work-experience-container{
+    margin-bottom: 55px;
+}
+
+
+
+.dots{
+    color: #b3b3b3;
+}
+.project-element{
+    font-weight: 700;
+    
+}
+.projects-link{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+h3 {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+}
+h5{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.profession{
+    color: #ff6b08;
+}
+
+li{
+    color: #595959;      
+    font-size: 14px;
+}
+.times{
+    color: #a8a8a8;    
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
